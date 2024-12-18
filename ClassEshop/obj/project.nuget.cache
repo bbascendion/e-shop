@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQjU4EweR48=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhargav.balla\\ESHOP\\ESHOP\\ClassEshop\\ClassEshop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhargav.balla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bhargav.balla\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\bhargav.balla\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\bhargav.balla\\.nuget\\packages\\selenium.support\\4.27.0\\selenium.support.4.27.0.nupkg.sha512",
+    "C:\\Users\\bhargav.balla\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\bhargav.balla\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.10800\\selenium.webdriver.chromedriver.131.0.6778.10800.nupkg.sha512",
+    "C:\\Users\\bhargav.balla\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

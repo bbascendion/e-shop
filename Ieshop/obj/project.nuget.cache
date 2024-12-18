@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jMwDyb/tKAs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhargav.balla\\ESHOP\\ESHOP\\Ieshop\\Ieshop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhargav.balla\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bhargav.balla\\.nuget\\packages\\selenium.webdriver\\4.0.0-beta2\\selenium.webdriver.4.0.0-beta2.nupkg.sha512",
+    "C:\\Users\\bhargav.balla\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
