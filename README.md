@@ -25,3 +25,6 @@ The tests are implemented using the Selenium WebDriver in combination with the N
 1. Clone the repository:
    ```bash
    git clone https://github.com/bbascendion/e-shop.git
+
+We Done this automation for this project 
+https://github.com/dotnet-architecture/eShopOnWeb
